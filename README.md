@@ -17,3 +17,8 @@ ordenamiento de archivos, debido a la imposibilidad de almacenarlos en memoria y
 limitaciones en el tiempo, por la cantidad de elementos a ordenar.
  
 ==================================================================================
+
+Colaborador:
+Carlos Daniel Rivera Gómez
+
+==================================================================================
