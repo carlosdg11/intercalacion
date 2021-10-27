@@ -44,7 +44,7 @@ public class Intercalacion {
             System.out.println("-------------------------------------------");
             
             //Pedir el tamaño del arreglo B
-            System.out.println("Arreglo A\n Ingresa el tamaño del arreglo B:");
+            System.out.println("Arreglo B\n Ingresa el tamaño del arreglo B:");
             t2= Integer.parseInt(br.readLine());
             
             for (int i = 0; i <t2; i++) {
@@ -110,7 +110,7 @@ public class Intercalacion {
         System.out.print("]"); 
         //imprimir los movimientos y comparaciones
         System.out.println("\nMovimientos" + mov);
-        System.out.println("Comparaciones"+comp);
+        System.out.println("Comparaciones"+ comp);
     }
     
 }
