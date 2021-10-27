@@ -7,9 +7,9 @@ Programación Web
 =================================================================================
 
 Descripción:
-El siguiente programa realiza el ordenamiento por intercalación de dos arreglos, A y
-B, a los cuales le tenemos que asignar su respectivo tamaño, para despues ser ordenados y
-almacenados en un arreglo C.
+El siguiente programa realiza el ordenamiento de dos dos arreglos, A y B, a los 
+cuales le tenemos que asignar su respectivo tamaño, para después ser ordenados por
+el método de intercalación y almacenados en un arreglo C.
 
 La intercalación es utilizada en sistemas de actualización, y en casos en donde es
 necesario varias listas ordenadas. También es la única forma que hay para el 
